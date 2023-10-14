@@ -1,0 +1,21 @@
+c:\users\даниил\documents\visual studio 2012\Projects\factorial\factorial\bin\Debug\factorial.exe.config
+c:\users\даниил\documents\visual studio 2012\Projects\factorial\factorial\bin\Debug\factorial.exe
+c:\users\даниил\documents\visual studio 2012\Projects\factorial\factorial\bin\Debug\factorial.pdb
+c:\users\даниил\documents\visual studio 2012\Projects\factorial\factorial\obj\Debug\factorial.Form1.resources
+c:\users\даниил\documents\visual studio 2012\Projects\factorial\factorial\obj\Debug\factorial.Properties.Resources.resources
+c:\users\даниил\documents\visual studio 2012\Projects\factorial\factorial\obj\Debug\factorial.csproj.GenerateResource.Cache
+c:\users\даниил\documents\visual studio 2012\Projects\factorial\factorial\obj\Debug\factorial.exe
+c:\users\даниил\documents\visual studio 2012\Projects\factorial\factorial\obj\Debug\factorial.pdb
+C:\Users\Даниил\documents\visual studio 2012\Projects\factorial\factorial\obj\Debug\factorial.csprojResolveAssemblyReference.cache
+C:\myC#\Projects(2)\factorial\factorial\bin\Debug\factorial.exe.config
+C:\myC#\Projects(2)\factorial\factorial\obj\Debug\factorial.exe
+C:\myC#\Projects(2)\factorial\factorial\obj\Debug\factorial.pdb
+C:\myC#\Projects(2)\factorial\factorial\obj\Debug\factorial.csprojResolveAssemblyReference.cache
+C:\myC#\Projects(2)\factorial\bin\Debug\factorial.exe.config
+C:\myC#\Projects(2)\factorial\obj\Debug\factorial.exe
+C:\myC#\Projects(2)\factorial\obj\Debug\factorial.pdb
+C:\myC#\Projects(2)\factorial\obj\Debug\factorial.Properties.Resources.resources
+C:\myC#\Projects(2)\factorial\obj\Debug\factorial.csproj.GenerateResource.Cache
+C:\myC#\Projects(2)\factorial\bin\Debug\factorial.exe
+C:\myC#\Projects(2)\factorial\bin\Debug\factorial.pdb
+C:\myC#\Projects(2)\factorial\obj\Debug\factorial.Form4.resources
